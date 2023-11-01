@@ -1,0 +1,16 @@
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\bin\Debug\net6.0-windows\simpleCalculator.exe
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\bin\Debug\net6.0-windows\simpleCalculator.deps.json
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\bin\Debug\net6.0-windows\simpleCalculator.runtimeconfig.json
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\bin\Debug\net6.0-windows\simpleCalculator.dll
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\bin\Debug\net6.0-windows\simpleCalculator.pdb
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.Form1.resources
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.AssemblyInfo.cs
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.dll
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0-windows\refint\simpleCalculator.dll
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.pdb
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.genruntimeconfig.cache
+C:\Users\micha\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0-windows\ref\simpleCalculator.dll
